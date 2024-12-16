@@ -1,3 +1,3 @@
 # Prueba-Angular
 
-<h1>Tutorial Angular</<h1>
+<h1>Tutorial Angular</h1>
