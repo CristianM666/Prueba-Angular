@@ -4,7 +4,7 @@
 Angular.module('Primerprueba', [])
 
 .controller('Primercontrol', function ($scope) {
-  $scope.name = "Cristian";
+  $scope.name="Cristian";
 });
 
 })();
