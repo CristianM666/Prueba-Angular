@@ -4,7 +4,10 @@
 Angular.module('Primerprueba', [])
 
 .controller('Primercontrol', function ($scope) {
-  $SCOPE.name="Cristian";
+  $scope.name="Cristian";
+  $scope.sayHello = function () {
+  return "Hello Cristian!"
+};|
 });
 
 })();
