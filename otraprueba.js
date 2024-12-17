@@ -1,9 +1,9 @@
 (function () {
-//'use strict';
+'use strict';
 
 Angular.module('Primerprueba', [])
 
-.controller('Primercontrol', function ($scope) {
+.ng-controller('Primercontrol', function ($scope) {
   $scope.name = "Cristian";
 });
 
