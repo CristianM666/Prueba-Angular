@@ -3,7 +3,7 @@
 
 Angular.module('Primerprueba', [])
 
-.ng-controller('Primercontrol', function ($scope) {
+.controller('Primercontrol', function ($scope) {
   $scope.name = "Cristian";
 });
 
